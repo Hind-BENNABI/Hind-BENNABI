@@ -8,7 +8,7 @@
 
 🛠️ **Tech Stack**
 
-- 💻 Languages: `Python`, `HTML`, `CSS`, `JavaScript`
+- 💻 Languages: `Python`, `HTML`, `CSS`, `JavaScript`,`C++`
 - 🤖 AI/ML: `Search Algorithms`
 - 💡 Tools: `Git`, `VS Code`, `Jupyter`.
 
